@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://icon.png" type="Texture" id=1]
+
+[node name="hiya" type="Node2D"]
+
+[node name="icon" type="Sprite" parent="."]
+position = Vector2( 539.324, 110.953 )
+texture = ExtResource( 1 )
