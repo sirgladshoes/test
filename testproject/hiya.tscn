@@ -5,5 +5,5 @@
 [node name="hiya" type="Node2D"]
 
 [node name="icon" type="Sprite" parent="."]
-position = Vector2( 539.324, 110.953 )
+position = Vector2( 127.324, 69.953 )
 texture = ExtResource( 1 )
